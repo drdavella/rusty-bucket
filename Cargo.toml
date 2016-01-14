@@ -1,0 +1,7 @@
+[package]
+name = "rusty_bucket"
+version = "0.1.0"
+authors = ["Dan D'Avella <drdavella@gmail.com>"]
+
+[dependencies]
+getopts = "0.2"
